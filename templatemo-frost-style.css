@@ -761,7 +761,7 @@ button {
 
 .builder-step__text {
 	font-size: 0.88rem;
-	color: var(--navy-light);
+	color: #000;
 }
 
 .builder__preview {
